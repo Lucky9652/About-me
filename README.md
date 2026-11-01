@@ -61,4 +61,25 @@ Tips:
 Add one sentence tied to the company’s needs from the job description (for example, “I noticed you use EKS and Terraform, which I’ve worked with”).
 Keep it to about 60-90 seconds.
 
-5. 
+5.  What is your long-range objective?
+
+Sample answer (about 60-75 seconds):
+
+“Within the next five years, I want to become one of the most reliable DevOps and cloud engineers on your team, someone others turn to when they need to design a solid AWS architecture, fix a pipeline, or automate a manual process. As I build that expertise, I believe I’ll be well prepared to take on bigger responsibilities over the long term, such as leading cloud projects or architecting solutions for the team.
+
+Here is what I’m doing right now to prepare:
+
+Building the technical foundation. I completed an Advanced Certification in Cloud Computing and DevOps with IIT Roorkee and Intellipaat, and I work hands-on with AWS, Docker, Kubernetes, Terraform, Jenkins and Ansible.
+Learning continuously. I recently completed a Python Using AI workshop to automate more of my work, and I’m working toward advanced AWS certifications, such as Solutions Architect or DevOps Engineer Professional.
+Practising on real projects. I build and maintain projects on GitHub, including CI/CD pipelines, infrastructure as code and monitoring dashboards with Prometheus and Grafana, so my skills stay practical, not just theoretical.
+Staying current. I follow cloud and DevOps trends, AWS announcements and community discussions, because this field changes quickly.
+Networking and learning from others. I connect with DevOps professionals on LinkedIn and learn from how experienced engineers solve problems.
+
+My goal is to contribute to your company from day one, keep growing alongside the team, and build a long-term career here.”
+
+Tips:
+
+Keep the objective achievable and tied to the company. “Best engineer on your team” shows commitment. Avoid vague answers like “I want to be a CEO” or answers that suggest you’ll leave soon.
+Only claim what’s true. Don’t say you’re pursuing a specific certification unless you really are. If you’re not yet, say “I plan to pursue...” and consider booking the exam, so it becomes true.
+Be ready for a follow-up such as “Which certification, and when?” or “Tell me about a project on your GitHub.” Have specific answers.
+Match the company. If they use EKS or Terraform heavily, mention that tool as your area of depth.
